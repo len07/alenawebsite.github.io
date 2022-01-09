@@ -41,3 +41,4 @@ function Cards() {
 }
 
 export default Cards;
+// inspiration from the following youtube tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s
