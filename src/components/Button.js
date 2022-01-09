@@ -1,14 +1,4 @@
-// import React from 'react';
-// import './Button.css';
-// import { Link } from 'react-router-dom';
 
-// export function Button() {
-//   return (
-//     <Link to='Resume'>
-//       <button className='btn'>Resume</button>
-//     </Link>
-//   );
-// }
 
 import React from 'react';
 import './Button.css';
@@ -41,4 +31,4 @@ export const Button = ({
     </button>
   );
 };
-       
+// inspiration from the following youtube tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s
