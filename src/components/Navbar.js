@@ -61,3 +61,5 @@ window.addEventListener('resize', showButton);
 
 export default Navbar;
 
+// inspiration from the following youtube tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s
+
